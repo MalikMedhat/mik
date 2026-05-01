@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hello I’m Malik, a passionate Software Engineer Back-end with a strong focus on building robust, scalable applications.<br>I thrive on solving complex technical challenges and have successfully engineered projects ranging from real-time chatapplications to<br>feature-rich e-commerce storefronts using Java and the Spring Boot framework.<br>What sets me apart:<br><br>Highly Adaptable: Whether it's picking up new frameworks, optimizing hardware, or navigating complex system requirements, I adapt quickly to new environments and challenges.<br>Quick Learner: I am constantly expanding my technical toolkit—from mastering Docker and AWS to advancing my language skills in German to stay globally competitive.<br>Performance-Driven: I don't just write code; I care about performance, stability, and clean architecture.<br><br>I am always looking for opportunities to grow, innovate, and contribute to meaningful projects. Let’s connect!
+Hello I’m Malik, a passionate Software Engineer Back-end with a strong focus on building robust, scalable applications. 
+
+I thrive on solving complex technical challenges and have successfully engineered projects ranging from real-time chat applications to feature-rich e-commerce storefronts using Java and the Spring Boot framework.
+
+What sets me apart:
+
+Highly Adaptable:Whether it's picking up new frameworks, optimizing hardware, or navigating complex system requirements, I adapt quickly to new environments and challenges.
+
+Quick Learner: I am constantly expanding my technical toolkit—from mastering Docker and AWS to advancing my language skills in German to stay globally competitive.
+
+Performance-Driven:I don't just write code; I care about performance, stability, and clean architecture.
+
+I am always looking for opportunities to grow, innovate, and contribute to meaningful projects. Let’s connect!
+
 
 
 ## 🌐 Socials:
